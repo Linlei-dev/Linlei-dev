@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm Leolin._
 
-I am a software testing engineer and have been in this industry for 4 years.-
+I am a software testing engineer and have been in this industry for 4 years._
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:6leolin6@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Linlei-dev/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
