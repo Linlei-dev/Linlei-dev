@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Leolin, a software testing engineer
 
 <!--
 **Linlei-dev/Linlei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
