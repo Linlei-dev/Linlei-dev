@@ -5,7 +5,7 @@
 I am a software testing engineer and have been in this industry for 4 years.-
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:6leolin6@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Linlei-dev/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://leolin66.top/)
@@ -44,18 +44,18 @@ I am a software testing engineer and have been in this industry for 4 years.-
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-dev/count.svg)](https://leolin66.top/) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&theme=flag-india)](https://github.com/Linlei-dev/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://leolin66.top/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Linlei-dev&count_private=true&show_icons=true" height=145/></span>](https://leolin66.top/)
 
 <!--
 <table border="0">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Linlei-dev&show_icons=true" alt="Linlei-dev's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
@@ -63,7 +63,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-d
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLinlei-dev&show_icons=true)
+![Linlei-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linlei-dev&show_icons=true)
 -->
 
 ### My Skill Set
@@ -119,7 +119,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-d
 
 <br/>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://raw.githubusercontent.com/Linlei-dev/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
