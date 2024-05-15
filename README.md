@@ -5,7 +5,6 @@
 #### I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀
   
 - 🔭 I’m currently working on [Narwal](https://cn.narwal.com/about-us)  
-  
 
 - 🚀 I use daily:  
 
@@ -26,7 +25,6 @@
   ![GitLab](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 - ❓ Ask me about anything related to software testing and related technologies  
-  
 
 - ⚡ Fun fact: I participated in the company's singing competition and won the second place🎙️  
 
@@ -98,10 +96,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
-<br/>  
 
 ## Connect with me  
 [![Gmail Badge](https://img.shields.io/badge/-6leolin6@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:6leolin6@gmail.com)](mailto:6leolin6@gmail.com)
