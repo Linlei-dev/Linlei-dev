@@ -1,26 +1,31 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
-
-### <div align="center">I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀</div>  
+ 
+## <div align="center">Hi there 👋, I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀</div>  
   
 
 - 🔭 I’m currently working on [Narwal](https://www.narwal.com/cn)  
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
+  ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
+  ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
+  ![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 - ❓ Ask me about anything related to software testing and related technologies  
   
 
 - ⚡ Fun fact: I participated in the company's singing competition and won the second place🎙️  
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Linlei-dev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://dev.to/https://dev.to/linleidev" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-dev/count.svg)](https://leolin66.top/) visitor, Thank You!🎉🎉
@@ -47,8 +52,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-d
 ![Linlei-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linlei-dev&show_icons=true)
 -->
 
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -70,7 +73,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-d
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -99,12 +101,11 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-d
 
 <br/>  
 
-<br/>
+## Connect with me  
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Linlei-dev/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
+<a href="https://github.com/https://github.com/Linlei-dev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://dev.to/https://dev.to/linleidev" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
