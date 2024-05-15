@@ -1,10 +1,12 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
  
-## <div align="left">Hi there 👋, I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀</div>  
-  
+## <div align="left">Hi there <img src="https://raw.githubusercontent.com/Linlei-dev/Linlei-dev/master/wave.gif" width="30"></div>  
 
+#### I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀
+  
 - 🔭 I’m currently working on [Narwal](https://www.narwal.com/cn)  
   
+
 - 🚀 I use daily:  
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
