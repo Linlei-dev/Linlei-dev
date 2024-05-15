@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on [Narwal](https://www.narwal.com/cn)  
   
-- 🚀 I use daily:
+- 🚀 I use daily:  
+
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
   ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
