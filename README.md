@@ -102,5 +102,6 @@
 <br/>  
 
 ## Connect with me  
-[![Gmail Badge](https://img.shields.io/badge/-6leolin6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:6leolin6@gmail.com)](mailto:6leolin6@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-@stone3-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Linlei-dev)
+[![Gmail Badge](https://img.shields.io/badge/-6leolin6@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:6leolin6@gmail.com)](mailto:6leolin6@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-@stone3-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Linlei-dev)
+[![Github Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
