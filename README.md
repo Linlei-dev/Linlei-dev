@@ -1,13 +1,12 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
  
-## <div align="center">Hi there 👋, I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀</div>  
+## <div align="left">Hi there 👋, I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀</div>  
   
 
 - 🔭 I’m currently working on [Narwal](https://www.narwal.com/cn)  
   
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
   ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
   ![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)
