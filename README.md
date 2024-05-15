@@ -4,7 +4,7 @@
 
 #### I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀
   
-- 🔭 I’m currently working on [Narwal](https://www.narwal.com/cn)  
+- 🔭 I’m currently working on [Narwal](https://cn.narwal.com/about-us)  
   
 
 - 🚀 I use daily:  
