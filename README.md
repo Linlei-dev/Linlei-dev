@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
  
-## <div align="left">Hi there! <img src="https://raw.githubusercontent.com/Linlei-dev/Linlei-dev/master/wave.gif" width="30"></div>  
+## <div align="left">Hi there! <img src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/gif/wave.gif" width="30"></div>  
 
 #### I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀
   
@@ -109,4 +109,4 @@
 [![Github Badge](https://img.shields.io/badge/-@stone3-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Linlei-dev)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/aenvYgmRyzSwKRJD/?mibextid=LQQJ4d)
 [![Notion Badge](https://img.shields.io/badge/Leo's_Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://leolin66.top)
-[![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/Linlei-dev/Linlei-dev/blob/main/MyWechatQRCode.JPG)
+[![Wechat Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/Linlei-dev/Linlei-dev/blob/main/public/img/MyWechatQRCode.JPG)
