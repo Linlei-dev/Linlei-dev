@@ -67,7 +67,7 @@
 <div align="left">  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/postman.svg" alt="Postman" height="50" /></a>   
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/visual-studio-code-1.svg" alt="VScode" height="50" /></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/pycharm-1.svg" alt="Pycharm" height="50" /></a>  
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/pycharm.svg" alt="Pycharm" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
