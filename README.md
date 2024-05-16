@@ -9,7 +9,8 @@
 - 🚀 I use daily:  
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Python](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+  ![Confluence Badge](https://img.shields.io/badge/confluence-%23172B4D?style=flat-square&logo=confluence)
   ![Pytest Badge](https://img.shields.io/badge/Pytest-%230A9EDC?style=flat-square&logo=pytest&logoColor=white&logoSize=auto)
   ![Pycharm Badge](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm)
   ![DBeaver Badge](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver)
