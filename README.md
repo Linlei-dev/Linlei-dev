@@ -13,7 +13,7 @@
   ![Pycharm Badge](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm)
   ![DBeaver Badge](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?style=flat-square&logo=nginx&logoColor=029137)
-  ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?style=flat-square&logo=postman&logoColor=FC8019)
+  ![postman Badge](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&labelColor=white)
   ![HttpRunner Badge](https://img.shields.io/badge/HttpRunner-%23009020?style=flat-square&logo=htop)
   ![Selenium Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white&logoSize=auto&color=%2343B02A)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?style=flat-square&logo=jenkins&logoColor=F16061)
@@ -88,6 +88,7 @@
 </div>
 
 </td><td valign="top" width="33%">
+
 
 
 
