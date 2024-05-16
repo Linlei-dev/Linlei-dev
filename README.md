@@ -9,9 +9,13 @@
 - 🚀 I use daily:  
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Pytest Badge](https://img.shields.io/badge/Pytest-%230A9EDC?style=flat-square&logo=pytest&logoColor=white&logoSize=auto)
+  ![Pycharm Badge](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm)
+  ![DBeaver Badge](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?style=flat-square&logo=nginx&logoColor=029137)
   ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?style=flat-square&logo=postman&logoColor=FC8019)
-  ![Docker](https://img.shields.io/badge/docker-20232A?style=flat-square&logo=docker&logoColor=61DAFB)
+  ![HttpRunner Badge](https://img.shields.io/badge/HttpRunner-%23009020?style=flat-square&logo=htop)
+  ![Selenium Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white&logoSize=auto&color=%2343B02A)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?style=flat-square&logo=jenkins&logoColor=F16061)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -23,6 +27,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![GitLab](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Jmeter Badge](https://img.shields.io/badge/Jmeter-%23D22128?style=flat-square&logo=apachejmeter)
+
 
 - ❓ Ask me about anything related to software testing and related technologies  
 
