@@ -9,6 +9,7 @@
 - 🚀 I use daily:  
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
   ![Pytest Badge](https://img.shields.io/badge/Pytest-%230A9EDC?style=flat-square&logo=pytest&logoColor=white&logoSize=auto)
   ![Pycharm Badge](https://img.shields.io/badge/Pycharm-%23000000?style=flat-square&logo=pycharm)
   ![DBeaver Badge](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver)
