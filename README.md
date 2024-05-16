@@ -63,7 +63,13 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Tools  
+<div align="left">  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/postman.svg" alt="Postman" height="50" /></a>  
+<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/svg/jmeter.svg" alt="Jmeter" height="50" /></a>  
+</div>
 
+</td><td valign="top" width="33%">
 
 ### Frontend  
 <div align="left">  
