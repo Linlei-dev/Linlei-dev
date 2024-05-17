@@ -114,7 +114,7 @@
 </td></tr></table>  
 
 ## Connect with me  
-[![Gmail Badge](https://img.shields.io/badge/-6leolin6@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:6leolin6@gmail.com)](mailto:6leolin6@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:6leolin6@gmail.com)](mailto:6leolin6@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-@stone3-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Linlei-dev)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/aenvYgmRyzSwKRJD/?mibextid=LQQJ4d)
 [![Notion Badge](https://img.shields.io/badge/Leo's_Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://leolin66.top)
