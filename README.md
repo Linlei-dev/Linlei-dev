@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
  
-## <div align="left">Hi there! <img src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/gif/wave.gif" width="30"></div>  
+## <div align="left">Hi There! <img src="https://github.com/Linlei-dev/Linlei-dev/blob/main/public/gif/wave.gif" width="30"></div>  
 
 #### I'm Leolin, a full-time software testing engineer 👨‍💻 working since 2020🚀
   
