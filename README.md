@@ -39,26 +39,26 @@
 
 ## Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Linlei-dev/count.svg)](https://leolin66.top/) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&theme=flag-india)](https://github.com/Linlei-dev/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-five-zeta-46.vercel.app/api/top-langs/?username=Linlei-dev&theme=flag-india)](https://github.com/Linlei-dev/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Linlei-dev&count_private=true&show_icons=true" height=145/></span>](https://leolin66.top/)
+[<span><img src="https://github-readme-stats-five-zeta-46.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" height=145/></span><span><img src="https://github-readme-stats-five-zeta-46.vercel.app/api?username=Linlei-dev&count_private=true&show_icons=true" height=145/></span>](https://leolin66.top/)
 
 <!--
 <table border="0">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" alt="Top Langs" height="160" />
+<img src="https://github-readme-stats-five-zeta-46.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Linlei-dev&show_icons=true" alt="Linlei-dev's GitHub stats" height="160" />
+<img src="https://github-readme-stats-five-zeta-46.vercel.app/api?username=Linlei-dev&show_icons=true" alt="Linlei-dev's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
 -->
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact)
-![Linlei-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linlei-dev&show_icons=true)
+![Top Langs](https://github-readme-stats-five-zeta-46.vercel.app/api/top-langs/?username=Linlei-dev&layout=compact)
+![Linlei-dev's GitHub stats](https://github-readme-stats-five-zeta-46.vercel.app/api?username=Linlei-dev&show_icons=true)
 -->
 
 
