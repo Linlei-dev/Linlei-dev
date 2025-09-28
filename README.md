@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I participated in the company's singing competition and won the second place🎙️  
 
 
-## Welcome, You are my [![](https://komarev.com/ghpvc/?username=Linlei-dev&color=blueviolet&style=for-the-badge)](https://leolin66.top/) visitor, Thank You!🎉🎉
+## Welcome, You are my [![](https://komarev.com/ghpvc/?username=Linlei-dev&color=blueviolet&style=for-the-badge&base=500)](https://leolin66.top/) visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats-five-zeta-46.vercel.app/api/top-langs/?username=Linlei-dev&theme=flag-india)](https://github.com/Linlei-dev/github-readme-stats) -->
 
